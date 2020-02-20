@@ -16,7 +16,7 @@ Site composé de 4 pages :
   - Contact
       - téléphone, adresse mail avec formulaire de contact
     
-
+A faire : 
 - Barre de navigation classique
 - Footer avec lien vers les réseaux sociaux
 - Site multilingue (français et anglais)
