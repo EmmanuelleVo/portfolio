@@ -23,6 +23,7 @@ A faire :
 
 Documentation : 
 https://uxplanet.org/call-for-attention-ui-design-tips-on-cta-buttons-5239413aded2 (CTA)
+https://graphiste.com/blog/animations-css-dynamiser-boutons (CTA)
 
 
 
