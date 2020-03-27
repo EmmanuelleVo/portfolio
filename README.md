@@ -6,13 +6,12 @@
 Site composé de 4 pages :
   - Accueil
   - Mes projets :
-      - one page avec scroll haut en bas
-      - Chaque projet vient s'afficher au fur et à mesure qu'on scrolle
-      - A gauche, description du projet (nom, date, ce que j'y ai appris
-      - A droite, une animation montrant l'évolution de mes compétences, via des triangles qui s'assemblent pour réaliser une forme/dessin, triangles de couleurs différentes pour chaque compétence améliorée (html, css, js, php,...). Hover sur l'animation pour savoir quelle couleur représente quelle compétence
+      - A gauche, description du projet (nom, date, ce que j'y ai appris, consignes,...)
+      - A droite, une animation montrant l'évolution de mes compétences, via des triangles qui s'assemblent pour réaliser une forme/dessin, triangles de couleurs différentes pour chaque compétence améliorée (html, css, js, php,...). Hover sur l'animation pour savoir quelle couleur représente quelle compétence.
+      En plus des photos du projet
+      - CTA suivant / précédent
   - A propos
       - Ma description
-      - Lien vers mon CV
   - Contact
       - téléphone, adresse mail avec formulaire de contact
     
