@@ -1,7 +1,7 @@
-# portfolio
+# Portfolio
 
-Mon concept est basé sur des triangles
-Couleur principale : bleu
+* Mon concept est basé sur des triangles
+* Couleur principale : bleu
 
 Site composé de 4 pages :
   - Accueil
