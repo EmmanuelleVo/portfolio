@@ -31,4 +31,3 @@ https://uxplanet.org/call-for-attention-ui-design-tips-on-cta-buttons-5239413ade
 Lien vers InVision : 
 https://emmanuellevo270765.invisionapp.com/board/Portfolio-ck6c0qkok0goh17shh2tmfjcl?v=hqTh1ha%2F25eqnTPAY6GyvA%3D%3D&linkshare=urlcopied
 
-Lien vers mon moodboard : https://emmanuellevo270765.invisionapp.com/board/Portfolio-ck6c0qkok0goh17shh2tmfjcl?v=hqTh1ha%2F25eqnTPAY6GyvA%3D%3D&linkshare=urlcopied
